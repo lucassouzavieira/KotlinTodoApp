@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "680769730740",
+    "firebase_url": "https://todoapp-b4e16.firebaseio.com",
+    "project_id": "todoapp-b4e16",
+    "storage_bucket": "todoapp-b4e16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680769730740:android:968273cfa6ae8019",
+        "android_client_info": {
+          "package_name": "com.lvieira"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680769730740-j543lah8u6k6klgd8psqksguvjoh43oc.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "680769730740-j543lah8u6k6klgd8psqksguvjoh43oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkWM9Ae8OpfAjHc9mK9aBZPaBKRVwFLuc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
